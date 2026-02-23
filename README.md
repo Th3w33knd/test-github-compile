@@ -28,3 +28,13 @@ git push origin main
 ```
 
 2. Installing Docker in Code Spaces
+
+    1. Prepare the System
+    ```bash
+    sudo apt update
+    sudo apt install ca-certificates curl gnupg
+    ```
+
+    2. Add Docker’s Official GPG Key
+    ```bash
+    ```
