@@ -10,7 +10,6 @@ Kernel: 6.8.0-1030-azure
 CPU: AMD EPYC 7763 (2) @ 3.243GHz
 GPU: 00:08.0 Microsoft Corporation Hyper-V virtual VGA (No Physical NVIDIA GPU)
 Memory: 1434MiB / 7944MiB
-
 ```
 
 ## 1. Environment Setup
